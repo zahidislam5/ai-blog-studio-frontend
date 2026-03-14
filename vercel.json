@@ -1,6 +1,6 @@
 {
   "rewrites": [{ "source": "/(.*)", "destination": "/" }],
   "env": {
-    "VITE_API_URL": "https://your-backend.onrender.com"
+    "VITE_API_URL": "https://ai-blog-studio-backend.onrender.com"
   }
 }
